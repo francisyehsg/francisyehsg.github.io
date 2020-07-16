@@ -17,7 +17,7 @@ Section
     * [The Max-pooling Operation](#12)
 * [Cats and Dogs](#2)
     * [Data preparation](#21)
-* [Data Augmentation](#part3) 
+* [Data Augmentation](#3) 
 * [References and Acknowledgements](#references)
 
 
@@ -200,20 +200,6 @@ print('total test dog images:', len(os.listdir(test_dogs_dir)))
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    FileNotFoundError                         Traceback (most recent call last)
-
-    <ipython-input-4-97a85ec00aa6> in <module>
-         14 test_dogs_dir = os.path.join(test_dir, 'dogs')
-         15 
-    ---> 16 print('total training cat images:', len(os.listdir(train_cats_dir)))
-         17 print('total training dog images:', len(os.listdir(train_dogs_dir)))
-         18 print('total validation cat images:', len(os.listdir(validation_cats_dir)))
-    
-
-    FileNotFoundError: [WinError 3] The system cannot find the path specified: 'cats_and_dogs_small\\train\\cats'
-
 
 We do indeed have 2,000 training images, 1,000 validation images, and 1,000 test images. Each split contains the same number of samples from each class: this is a balanced binary-classification problem, which means classification accuracy will be an appropriate measure of success.
 
@@ -395,19 +381,19 @@ plt.show()
 ```
 
 
-![png](output_31_0.png)
+![output_31_0](//fig/2020-07-15-CNNoutput_31_0.png)
 
 
 
-![png](output_31_1.png)
+![output_31_1](/fig/2020-07-15-CNN/output_31_1.png)
 
 
 
-![png](output_31_2.png)
+![output_31_2](/fig/2020-07-15-CNN/output_31_2.png)
 
 
 
-![png](output_31_3.png)
+![output_31_3](/fig/2020-07-15-CNN/output_31_3.png)
 
 
 If we train a new network using this data-augmentation configuration, the network will never see the same input twice. But the inputs it sees are highly intercorrelated, because they come from a small number of original images. To further fight overfitting, we will add a `Dropout` layer to our model, right before the densely connected classifier.
