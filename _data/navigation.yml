@@ -1,7 +1,10 @@
 # Site navigation links
 
-- title: All Posts
+- title: All R
   url: /posts/
+
+- title: All Python
+  url: /postsP/
 
 - title: RSS
   url: https://francisyehsg.github.io/feed
