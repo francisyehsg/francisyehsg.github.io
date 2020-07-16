@@ -33,6 +33,7 @@ page_ext: md
 
 # Found in _templates/
 post_layout: post
+postP_layout: postP
 page_layout: page
 
 # Format titles with titlecase?
@@ -48,7 +49,7 @@ owner:
   disqus-shortname: #username
   twitter: azure
   facebook: #username
-  google: #username 
+  google: https://colab.research.google.com/
   bing-verify: 
   github: francisyehsg
   stackoverflow: #username
