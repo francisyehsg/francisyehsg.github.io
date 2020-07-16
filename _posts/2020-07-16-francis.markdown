@@ -22,4 +22,5 @@ from plotly import tools
 from plotly.offline import iplot, init_notebook_mode
 import plotly
 plotly.offline.init_notebook_mode()
+
 ```
