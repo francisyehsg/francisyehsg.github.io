@@ -6,6 +6,9 @@ baseurl:          https://francisyehsg.github.io
 url: 		      https://francisyehsg.github.io
 
 # Jekyll configuration
+links:
+  - title: Links
+    url: /postsP/
 
 permalink:   /:categories/:title/
 markdown:    kramdown
@@ -29,7 +32,7 @@ kramdown:
 
 # Default extensions
 post_ext: md
-postP_ext: md
+postP_ext: html
 page_ext: md
 
 # Found in _templates/
@@ -39,6 +42,7 @@ page_layout: page
 
 # Format titles with titlecase?
 titlecase: true
+
 
 
 # Site owner
