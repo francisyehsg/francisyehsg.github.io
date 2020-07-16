@@ -4,46 +4,23 @@ title: Useful Links from Data Science from Scratch by Joel Grus
 excerpt: "A List of Useful Links"
 ---
 
-
 ## Preface
 
 [Data Science Venn Diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 
 ## 1. Introduction
 
-[OkCupid Questions](http://blog.okcupid.com/index.php/the-best-questions-for-first-dates/)
-
-[Facebook on coordinated migration](https://www.facebook.com/notes/facebook-data-science/coordinated-migration/10151930946453859)
-
-[Facebook on NFL fandom](https://www.facebook.com/notes/facebook-data-science/nfl-fans-on-facebook/10151298370823859)
-
-[Target's predictive modeling](http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html)
-
-[Making government more effective](http://www.marketplace.org/topics/tech/beyond-ad-clicks-using-big-data-social-good)
-
-[Helping homelessness](http://dssg.io/2014/08/20/paths-homelessness.html)
-
-[Improving public health](https://plus.google.com/communities/109572103057302114737)
-
 ## 2. A Crash Course in Python
 
-http://python.org
-
-[Anaconda](https://store.continuum.io/cshop/anaconda/)
+[Python](http://python.org)
 
 [pip](https://pypi.python.org/pypi/pip)
 
-[IPython](http://ipython.org/)
+[official Python tutorial](https://docs.python.org/3/tutorial/)
 
-[the Zen of Python](http://legacy.python.org/dev/peps/pep-0020/)
-
-[official Python tutorial](https://docs.python.org/2/tutorial/)
-
-[official IPython tutorial](http://ipython.org/ipython-doc/2/interactive/tutorial.html)
+[official IPython tutorial](http://ipython.org/ipython-doc/3/interactive/tutorial.html)
 
 [IPython videos and presentations](http://ipython.org/videos.html)
-
-[Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
 
 ## 3. Visualizing Data
 
@@ -73,21 +50,11 @@ http://python.org
 
 [Almost "average squared deviation from the mean"](http://en.wikipedia.org/wiki/Unbiased_estimation_of_standard_deviation)
 
-["angrily accused of experimenting on your users"](http://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html)
-
 [SciPy stats](http://docs.scipy.org/doc/scipy/reference/stats.html)
 
 [pandas](http://pandas.pydata.org/)
 
-[StatsModels](http://statsmodels.sourceforge.net/)
-
-[OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
-
-[OpenStax Introductory Statistics](http://openstaxcollege.org/textbooks/introductory-statistics)
-
 ## 6. Probability
-
-[the Monty Hall Problem](http://en.wikipedia.org/wiki/Monty_Hall_problem)
 
 [error function](http://en.wikipedia.org/wiki/Error_function)
 
@@ -100,10 +67,6 @@ http://python.org
 ## 7. Hypothesis and Inference
 
 [continuity correction](http://en.wikipedia.org/wiki/Continuity_correction)
-
-[P-hacking](http://www.nature.com/news/scientific-method-statistical-errors-1.14700)
-
-["The Earth Is Round (p < .05)"](http://ist-socrates.berkeley.edu/~maccoun/PP279_Cohen1.pdf)
 
 [conjugate priors](http://www.johndcook.com/blog/conjugate_prior_diagram/)
 
@@ -127,41 +90,27 @@ http://python.org
 
 [GitHub API](http://developer.github.com/v3/)
 
-http://www.pythonapi.com/
+[Python API](http://www.pythonapi.com/)
 
-http://www.pythonforbeginners.com/development/list-of-python-apis/
+[Python APIs](http://www.pythonforbeginners.com/development/list-of-python-apis/)
 
 http://www.programmableweb.com/
 
 [Twython](https://github.com/ryanmcgrath/twython)
 
-https://apps.twitter.com/
-
-[Twitter Search API](https://dev.twitter.com/docs/api/1.1/get/search/tweets)
+[Twitter App](https://apps.twitter.com/)
 
 [unicode](https://docs.python.org/2/howto/unicode.html)
 
 [Twitter Streaming API](https://dev.twitter.com/docs/api/1.1/get/statuses/sample)
 
-[scrapy](http://scrapy.org/)
-
-[pandas](http://pandas.pydata.org/)
-
 ## 10. Working With Data
 
 [pandas](http://pandas.pydata.org/)
 
-[Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
-
 [scikit-learn matrix decomposition](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.decomposition)
 
 ## 11. Machine Learning
-
-[prevalence of "Luke"](http://www.babycenter.com/babyNameAllPops.htm?babyNameId=2918)
-
-[prevalence of leukemia](http://seer.cancer.gov/statfacts/html/leuks.html)
-
-[harmonic mean](http://en.wikipedia.org/wiki/Harmonic_mean)
 
 [Coursera -- Machine Learning](https://www.coursera.org/course/ml)
 
@@ -179,8 +128,6 @@ https://apps.twitter.com/
 
 [SpamAssassin public corpus](https://spamassassin.apache.org/publiccorpus/)
 
-[7-Zip](http://www.7-zip.org/)
-
 [the Porter stemmer](http://tartarus.org/martin/PorterStemmer/)
 
 ["A Plan for Spam"](http://www.paulgraham.com/spam.html)
@@ -194,8 +141,6 @@ https://apps.twitter.com/
 ## 15. Multiple Regression
 
 [scikit-learn linear model](http://scikit-learn.org/stable/modules/linear_model.html)
-
-[StatsModels](http://statsmodels.sourceforge.net/)
 
 ## 16. Logistic Regression
 
