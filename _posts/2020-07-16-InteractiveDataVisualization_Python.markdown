@@ -1,6 +1,9 @@
 ---
-title: francis
+title: Interactive Data Visualization - Automobile Accidents
 date: 2020-07-16T16:14:02+08:00
+tags: [Python, Plotly]
+share: true
+comments: true
 ---
 
 # Interactive Data Visualization

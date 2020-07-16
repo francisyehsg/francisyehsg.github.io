@@ -20,7 +20,6 @@ excerpt: "A List of Useful Links"
 
 [official IPython tutorial](http://ipython.org/ipython-doc/3/interactive/tutorial.html)
 
-[IPython videos and presentations](http://ipython.org/videos.html)
 
 ## 3. Visualizing Data
 
@@ -84,25 +83,17 @@ excerpt: "A List of Useful Links"
 
 [opening csv files in binary mode](http://stackoverflow.com/questions/4249185/using-python-to-append-csv-files)
 
-[BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)
-
 [requests](http://docs.python-requests.org/en/latest/)
 
 [GitHub API](http://developer.github.com/v3/)
 
-[Python API](http://www.pythonapi.com/)
-
 [Python APIs](http://www.pythonforbeginners.com/development/list-of-python-apis/)
-
-http://www.programmableweb.com/
 
 [Twython](https://github.com/ryanmcgrath/twython)
 
 [Twitter App](https://apps.twitter.com/)
 
-[unicode](https://docs.python.org/2/howto/unicode.html)
-
-[Twitter Streaming API](https://dev.twitter.com/docs/api/1.1/get/statuses/sample)
+[unicode](https://docs.python.org/3/howto/unicode.html)
 
 ## 10. Working With Data
 
@@ -125,8 +116,6 @@ http://www.programmableweb.com/
 [scikit-learn nearest neighbor models](http://scikit-learn.org/stable/modules/neighbors.html)
 
 ## 13. Naive Bayes
-
-[SpamAssassin public corpus](https://spamassassin.apache.org/publiccorpus/)
 
 [the Porter stemmer](http://tartarus.org/martin/PorterStemmer/)
 
