@@ -29,6 +29,7 @@ kramdown:
 
 # Default extensions
 post_ext: md
+postP_ext: md
 page_ext: md
 
 # Found in _templates/
