@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Francis Yeh | Data Superpower
+title:            Francis Yeh | Data Intel
 locale:           en_US
 baseurl:          https://francisyehsg.github.io
 url: 		      https://francisyehsg.github.io
@@ -43,10 +43,10 @@ titlecase: true
 owner:
   name: Francis Yeh
   avatar: bio-photo.jpg
-  bio: . 
+  bio: Run Simple
   email: #username
   disqus-shortname: #username
-  twitter: #username
+  twitter: azure
   facebook: #username
   google: #username 
   bing-verify: 
