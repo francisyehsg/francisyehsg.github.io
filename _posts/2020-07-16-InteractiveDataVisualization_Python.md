@@ -7,8 +7,6 @@ share: true
 comments: true
 ---
 
-# Interactive Data Visualization
-
 Automotive crashes continue to be one of the main reasons for American deaths. After seeing a decline in traffic fatalities for many years, 2015 saw an uptick in accidents. Many factors contributed to a higher number of accidents.
 
 ## Import Packages
