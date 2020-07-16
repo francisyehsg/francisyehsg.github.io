@@ -44,7 +44,7 @@ titlecase: true
 # Site owner
 owner:
   name: Francis Yeh
-  avatar: bio-photo.jpg
+  avatar: bio-photo.JPG
   bio: Run Simple
   email: #username
   disqus-shortname: #username
@@ -63,7 +63,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: cs50
   soundcloud: #username
   vine: #username
   weibo: #username
