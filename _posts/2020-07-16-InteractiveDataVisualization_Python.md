@@ -1,6 +1,7 @@
 ---
 title: Interactive Data Visualization - Automobile Accidents
 date: 2020-07-16T16:14:02+08:00
+excerpt: "Python, Plotly"
 tags: [Python, Plotly]
 share: true
 comments: true
